@@ -15,7 +15,7 @@ An npm module that streams your data for you.
 Install locally for any project:
 
 ```zsh
-npm install dataparser --save
+npm install @sidarcidiacono/dataparser --save
 ```
 
 *Note: --save is the default behavior, and is provided simply for clarity.*
