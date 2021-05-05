@@ -1,0 +1,24 @@
+{
+  "name": "dataparser",
+  "version": "1.0.0",
+  "description": "Stream data efficiently with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidneyarcidiacono/data-parser.git"
+  },
+  "keywords": [
+    "data",
+    "Node.js",
+    "npm"
+  ],
+  "author": "Sid Arcidiacono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidneyarcidiacono/data-parser/issues"
+  },
+  "homepage": "https://github.com/sidneyarcidiacono/data-parser#readme"
+}
