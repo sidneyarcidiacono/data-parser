@@ -17,3 +17,7 @@ const streamData = (filePath, mode) => {
     return data
   })
 }
+
+module.exports = {
+  streamData
+}
