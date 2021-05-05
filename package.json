@@ -1,5 +1,5 @@
 {
-  "name": "dataparser",
+  "name": "@sidarcidiacono/dataparser",
   "version": "1.0.0",
   "description": "Stream data efficiently with Node.js",
   "main": "index.js",

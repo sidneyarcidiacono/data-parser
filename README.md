@@ -1,6 +1,6 @@
 # 📑 DataParser
 
-[![NPM version](https://img.shields.io/npm/v/dataparser.svg?style=flat)](https://www.npmjs.com/package/dataparser) [![NPM downloads](https://img.shields.io/npm/dm/dataparser.svg?style=flat)](https://npmjs.org/package/dataparser) [![Build Status](https://img.shields.io/travis/sidarcidiacono/dataparser.svg?style=flat)](https://travis-ci.org/sidarcidiacono/dataparser)
+[![NPM version](https://img.shields.io/npm/v/@sidarcidiacono/dataparser.svg?style=flat)](https://www.npmjs.com/package/@sidarcidiacono/dataparser) [![NPM downloads](https://img.shields.io/npm/dm/@sidarcidiacono/dataparser.svg?style=flat)](https://npmjs.org/package/@sidarcidiacono/dataparser) [![Build Status](https://img.shields.io/travis/sidarcidiacono/@sidarcidiacono/dataparser.svg?style=flat)](https://travis-ci.org/sidarcidiacono/@sidarcidiacono/dataparser)
 
 An npm module that streams your data for you.
 
@@ -39,4 +39,4 @@ Example:
 data = streamData('/path/to/data.txt', 'utf8')
 ```
 
-And you're done! That's all there is to it! 
+And you're done! That's all there is to it!
